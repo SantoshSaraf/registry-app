@@ -5,11 +5,11 @@
 
 	<groupId>com.registry</groupId>
 	<artifactId>registry-app</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0-RELEASE</version>
 	<packaging>jar</packaging>
 
 	<name>EurekaServer</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Eureka server as registry application</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
